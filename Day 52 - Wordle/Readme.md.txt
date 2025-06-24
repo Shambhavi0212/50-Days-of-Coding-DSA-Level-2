@@ -1,4 +1,4 @@
-🚀 Day5️⃣2️⃣/50 : CodeChef Challenge 
+🚀 Day5️⃣2️⃣/100 : CodeChef Challenge 
 
 🧩 Problem Solved: Wordle - Modified Version  
 📊 Problem Type: String Matching | Character Comparison | Input/Output  
