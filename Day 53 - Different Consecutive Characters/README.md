@@ -4,7 +4,7 @@
 📊 Problem Type: Greedy | String | Basic Counting  
 
 📝 Today, I:  
-Solved a binary string manipulation problem from CodeChef, where the goal was to ensure no two consecutive characters in the string are the same. The allowed operation was to insert characters (0 or 1) at any position to break such consecutive repetitions.
+Solved a binary string manipulation problem from CodeChef, where the goal was to ensure no two consecutive characters in the string are the same. The allowed operation was to insert characters (0 or 1) at any position to break such consecutive repetitions...
 
 📥 Example Input:
 3  
