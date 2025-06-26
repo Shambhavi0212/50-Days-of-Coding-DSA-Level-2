@@ -1,4 +1,4 @@
-🚀 Day5️⃣4️⃣/50 : CodeChef Challenge 
+🚀 Day5️⃣4️⃣/100 : CodeChef Challenge 
 
 🧩 Problem Solved: Convert String to Title Case  
 📊 Problem Type: String Manipulation | Title Case | Acronym Handling
