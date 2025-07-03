@@ -3,6 +3,7 @@ Day 5/30 :
 A constructor in Java is a special method that runs automatically when an object is created. Its main purpose is to initialize (assign initial values to) the object’s attributes.
 
 Key points about constructors:
+
 1.The constructor’s name must match the class name exactly.
 2.A constructor does not have a return type (not even void).
 3.The constructor is automatically called when you create an object using new.
