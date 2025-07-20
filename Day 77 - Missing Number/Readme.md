@@ -1,4 +1,4 @@
-🚀 Day7️⃣5️⃣/100 : LeetCode Challenge  
+🚀 Day7️⃣7️⃣/100 : LeetCode Challenge  
 
 🧩 Problem Solved: LeetCode 268 - Missing Number  
 📊 Problem Type: Array | Math | Bit Manipulation | Cyclic Sort  
@@ -25,4 +25,4 @@ Solved the **"Missing Number"** problem from **LeetCode (Problem 268)**, which i
 ⏳ Time Complexity: O(n)  
 📦 Space Complexity: O(1)  
 
-🌱 #Day75 #LeetCode #268 #MissingNumber #DSA #Java #EfficientCode #CleanCode #MathTrick #LearningJourney #100DaysOfCode 🚀
+🌱 #Day77 #LeetCode #268 #MissingNumber #DSA #Java #EfficientCode #CleanCode #MathTrick #LearningJourney #100DaysOfCode 🚀
