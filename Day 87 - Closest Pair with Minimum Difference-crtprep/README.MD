@@ -1,4 +1,4 @@
-🚀 Day4️⃣3️⃣/100 : HackerRank Closest Pair Challenge
+🚀 Day8️⃣7️⃣/100 : HackerRank Closest Pair Challenge
 
 🧩 Problem Solved: Find Closest Pair with Minimum Absolute Difference  
 📊 Problem Type: Sorting | Pairwise Comparison | Array | Math
@@ -29,4 +29,4 @@ Solved a problem on HackerRank where I had to find a pair of integers from an ar
 ⏳ Time Complexity: O(N log N) — due to sorting  
 📦 Space Complexity: O(1) — no extra space except variables  
 
-🌱 #Day43 #HackerRank #DSA #Java #ArrayProblem #Sorting #CodeChallenge #WomenInTech #50DaysOfCode #LearningJourney 🚀
+🌱 #Day87 #HackerRank #DSA #Java #ArrayProblem #Sorting #CodeChallenge #WomenInTech #50DaysOfCode #LearningJourney 🚀
